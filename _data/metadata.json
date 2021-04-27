@@ -1,0 +1,21 @@
+{
+  "title": "AGF",
+  "url": "https://example.com/",
+  "language": "da",
+  "description": "Alt om fodbold",
+  "feed": {
+    "subtitle": "Jeg skriver om alt om fodbold.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "AGF fodbold - forfatter",
+    "email": "youremailaddress@example.com",
+    "url": "https://example.com/about-me/"
+  }
+}
