@@ -1,5 +1,5 @@
 {
-  "title": "AGF",
+  "title": "Eleventy football theme",
   "url": "https://example.com/",
   "language": "da",
   "description": "Alt om fodbold",
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "AGF fodbold - forfatter",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Anders Frey Birkmose",
+    "email": "eleventy@birkmose.com",
+    "url": "https://birkmose.com/about-me/"
   }
 }
