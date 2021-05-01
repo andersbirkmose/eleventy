@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>AGF</title>
-	<subtitle>Jeg skriver om alt om fodbold.</subtitle>
+	<title>Freys static site</title>
+	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
 	
 	<link href="https://example.com/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/"/>
 	<updated>2018-09-30T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
-		<name>AGF fodbold - forfatter</name>
-		<email>youremailaddress@example.com</email>
+		<name>Anders Frey Birk,ose</name>
+		<email>anders@birkmose.com</email>
 	</author>
 	
 	<entry>
